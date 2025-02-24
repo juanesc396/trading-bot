@@ -5,7 +5,7 @@ This trading bot is developed in Python and leverages various libraries for data
 ### Technologies Used
 The bot utilizes the following key libraries:
 
-Pandas and NumPy – For efficient data manipulation and numerical computations.
+- Pandas and NumPy – For efficient data manipulation and numerical computations.
 - TA-Lib – For technical analysis indicators and functions.
 - Websockets – To enable real-time data streaming.
 - Tenacity – To implement robust error handling and request retries.
@@ -13,7 +13,6 @@ Pandas and NumPy – For efficient data manipulation and numerical computations.
 
 ### Features
 - Real-time market data processing.
-- Technical indicators for trade decision-making.
 - Automated trade execution.
 - Error handling and retry mechanisms.
 - Discord integration for trade and error notifications.
